@@ -1,17 +1,20 @@
-# AI-Powered Sales Forecasting Dashboard (Task 1)
+AI-Powered Sales Forecasting Dashboard (Task 1)
+Project Overview
 
-## Project Overview
+This project focuses on analyzing historical retail sales data and forecasting future sales trends using a time-series forecasting approach.
 
-This project analyzes historical retail sales data to predict future trends using machine learning.
+Tools Used
 
-## Tools Used
+Python: Data cleaning, preprocessing, and aggregation using Pandas
 
-- **Python**: Data cleaning and aggregation (Pandas).
-- **Prophet**: Time-series forecasting model.
-- **Power BI**: Interactive dashboard for visualization.
+Prophet: Time-series forecasting model for predicting future sales
 
-## Key Features
+Power BI: Interactive dashboard creation and data visualization
 
-- 12-month sales forecast.
-- Interactive dashboard with filters for Region and Category.
-- Comparison of actual vs. predicted sales trends.
+Key Features
+
+12-month sales forecast based on historical data
+
+Interactive Power BI dashboard with filters for Region and Category
+
+Comparison of actual sales versus predicted sales trends
